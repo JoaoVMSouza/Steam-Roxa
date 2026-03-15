@@ -1,7 +1,7 @@
 # 🎮 Steam Roxa
 <p>
 
-||A ideia por trás desse projeto clone da Steam é para a prática de criação de aplicação em Java com Spring Boot e PostgreSql.
+A ideia por trás desse projeto clone da Steam é para a prática de criação de aplicação em Java com Spring Boot e PostgreSql.
 </p>
 
 
