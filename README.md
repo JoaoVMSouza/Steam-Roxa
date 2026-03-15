@@ -1,9 +1,7 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="">
-
 # 🎮 Steam Roxa
 <p>
 
-A ideia por trás desse projeto clone da Steam é para a prática de criação de aplicação em Java com Spring Boot e PostgreSql.
+||A ideia por trás desse projeto clone da Steam é para a prática de criação de aplicação em Java com Spring Boot e PostgreSql.
 </p>
 
 
@@ -19,6 +17,10 @@ A Steam Roxa será uma aplicação com um banco de dados em PostgreSql feita em 
 
 ## 💻 Tecnologias
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
+
 - Java
+
 - Spring Boot
+
 - PostsgreSql
